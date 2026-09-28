@@ -107,3 +107,4 @@ Higgsfield package or calls a Higgsfield URL.
 ### Vercel flight request email
 
 The Request a Flight form sends submissions through Resend. Set `RESEND_API_KEY`, `FLIGHT_REQUEST_TO` (defaults to `zachery@makaiaerial.com`), and `FLIGHT_REQUEST_FROM` (defaults to `Makai Aerial <onboarding@resend.dev>`) in Vercel Environment Variables. For production, verify `makaiaerial.com` in Resend and use a From address on that verified domain.
+Deployment update
